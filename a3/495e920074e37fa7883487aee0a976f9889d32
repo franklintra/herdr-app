@@ -1,0 +1,25 @@
+defaults/AGENTS.md
+  s_def97c2a04cf67::t_e1b933ae868122 633-634
+docs/commands.md
+  s_def97c2a04cf67::t_602ab7be4a1277 558
+src/commands.rs
+  s_def97c2a04cf67::t_cef13160512ac8 104
+src/main.rs
+  s_def97c2a04cf67::t_2cff0d7d2f1996 127,140-142,183,191-229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a3495e920074e37fa7883487aee0a976f9889d32",
+  "prompts": {},
+  "sessions": {
+    "s_def97c2a04cf67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4f0bac9a-fbbd-48ff-bad6-cd063303bbcd",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Franklin Tranié <franklin.tranie@gmail.com>"
+    }
+  }
+}
